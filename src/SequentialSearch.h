@@ -1,4 +1,5 @@
-﻿#include <cstring>
+﻿#pragma once
+#include <cstring>
 #include <iostream>
 
 class SequentialSearch
